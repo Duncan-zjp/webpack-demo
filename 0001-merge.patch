@@ -1,0 +1,24 @@
+From 2645f05b6354f6acf0f068ab48b8d74273896d1a Mon Sep 17 00:00:00 2001
+From: Duncan <zhanjunpeng@126.com>
+Date: Wed, 21 Oct 2020 21:06:56 +0800
+Subject: [PATCH] merge
+
+---
+ dist/index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/dist/index.html b/dist/index.html
+index 79cd640..f9d0261 100644
+--- a/dist/index.html
++++ b/dist/index.html
+@@ -6,6 +6,7 @@
+     <title>Document</title>
+   </head>
+   <body>
++    <div>666</div>
+     <script src="./bundle.js"></script>
+   </body>
+ </html>
+-- 
+2.14.3 (Apple Git-98)
+
